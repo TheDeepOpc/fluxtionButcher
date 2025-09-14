@@ -92,7 +92,7 @@ FLUXIONRestoringTputNotice="${CGry}tput$CClr tiklanmoqda"
 FLUXIONDeletingFilesNotice="Keraksiz ${CGry}fayllar$CClr o‘chirilmoqda"
 FLUXIONRestartingNetworkManagerNotice="${CGry}Network-Manager$CClr qayta ishga tushirilmoqda"
 FLUXIONCleanupSuccessNotice="Tozalash muvaffaqiyatli yakunlandi"
-FLUXIONThanksSupportersNotice="BlindNet’dan foydalanganingiz uchun rahmat!"
+FLUXIONThanksSupportersNotice="Butcherdan foydalanganingiz uchun rahmat! miss/mr.Butcher"
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # FLUXSCRIPT END

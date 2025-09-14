@@ -92,7 +92,7 @@ FLUXIONRestoringTputNotice="Восстановление ${CGry}tput"
 FLUXIONDeletingFilesNotice="Удаление ${CGry}файлов"
 FLUXIONRestartingNetworkManagerNotice="Восстановление ${CGry}Network-Manager"
 FLUXIONCleanupSuccessNotice="Очистка выполнена успешно!"
-FLUXIONThanksSupportersNotice="Спасибо, что пользуетесь BlindNet"
+FLUXIONThanksSupportersNotice="Спасибо, что пользуетесь Butcher"
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # FLUXSCRIPT END

@@ -92,7 +92,7 @@ FLUXIONRestoringTputNotice="Restoring ${CGry}tput"
 FLUXIONDeletingFilesNotice="Deleting ${CGry}files"
 FLUXIONRestartingNetworkManagerNotice="Restarting ${CGry}Network-Manager"
 FLUXIONCleanupSuccessNotice="Cleanup performed successfully!"
-FLUXIONThanksSupportersNotice="Thank you for using FLUXION"
+FLUXIONThanksSupportersNotice="Thank you for using Butcher"
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # FLUXSCRIPT END
